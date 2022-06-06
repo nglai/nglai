@@ -41,9 +41,8 @@ Realizei um bootcamp de Front-end e Mobile contemplando: HTML, CSS, JavaScript, 
   
  ##
   
- <div> 
   ![Snake animation](https://github.com/nglai/nglai/blob/output/github-contribution-grid-snake.svg)
-</div>
+
   
 <!--
 **nglai/nglai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
