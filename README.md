@@ -22,7 +22,7 @@ Atualmente sou uma desenvolvedora back-end Node.js com Typescript.
  ##
   
  <div> 
-  <a href="https://www.linkedin.com/in/lai-ng-73a77915/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/lai-ng-73a77915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/nglai/nglai/blob/output/github-contribution-grid-snake.svg)
  
