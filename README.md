@@ -27,6 +27,10 @@ Realizei um bootcamp de Front-end e Mobile contemplando: HTML, CSS, JavaScript, 
   <img align="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
+  <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
+  <img align="center" alt="Flutter" src=https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white>
+
+
 </div>
 
 ##
