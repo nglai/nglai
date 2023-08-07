@@ -4,7 +4,7 @@
 
 Atualmente sou uma desenvolvedora Back-end.
 
-No momento estou aprendendo **Node.js e Typescript**.
+No momento estou aprendendo **Java**.
 
 Realizei um bootcamp de Front-end e Mobile contemplando: HTML, CSS, JavaScript, Jquery, Bootstrap, Dart, Flutter, React Native e banco de dados Firebase.
 
