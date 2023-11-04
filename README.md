@@ -5,7 +5,9 @@
 Atualmente sou uma desenvolvedora Back-end.
 
 No momento estou focando em **Java** e **JavaScript**.
+
 Estou no caminho para me tornar fullstack com **Angular** e **React.js**.
+
 Mas tenho preferência pelo Back-end.
 
 Realizei um bootcamp de Front-end e Mobile contemplando: HTML, CSS, JavaScript, Jquery, Bootstrap, Dart, Flutter, React Native e banco de dados Firebase.
