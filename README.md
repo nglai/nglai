@@ -6,13 +6,15 @@ Atualmente sou uma desenvolvedora Back-end.
 
 No momento estou focando em **Java** e **JavaScript**.
 
-Estou no caminho para me tornar fullstack com **Angular** e **React.js**.
+Estou no caminho para me tornar fullstack com **React.js**.
 
 Mas tenho preferência pelo Back-end.
 
 Realizei um bootcamp de Front-end e Mobile contemplando: HTML, CSS, JavaScript, Jquery, Bootstrap, Dart, Flutter, React Native e banco de dados Firebase.
 
-Estou realizando um bootcamp de DevOps contemplando: Linux, Redes, Conteinerização e AWS.
+Realizei também um bootcamp de DevOps contemplando: Linux, Redes, Conteinerização e AWS.
+
+Estou realizando um bootcamp de FullStack contemplando: Git, Git Hub, JavaScript, React.js, Java, Spring Boot, desenvolvimento de APIs rest, testes com Jest, MySQL, métodos ágeis e muito mais.
 
 <div>
   <a href="https://www.linkedin.com/in/lai-ng-73a77915b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
@@ -26,7 +28,6 @@ Estou realizando um bootcamp de DevOps contemplando: Linux, Redes, Conteineriza�
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
   <img align="center" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -38,7 +39,7 @@ Estou realizando um bootcamp de DevOps contemplando: Linux, Redes, Conteineriza�
   <img align="center" alt="Dart" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
   <img align="center" alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Firebase" src="https://img.shields.io/badge/Firebase-FFA611?style=for-the-badge&logo=firebase&logoColor=white">
-  <img align="center" alt="Flutter" src=https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white>
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00758f?style=for-the-badge&logo=mysql&logoColor=white">
 
 
 </div>
